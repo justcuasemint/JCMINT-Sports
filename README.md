@@ -34,3 +34,9 @@ Portfolio descriptions are first-party company statements, not independent endor
 ## Editorial and sourcing policy
 
 Case studies are based on JCMINT company credentials materials. Reported metrics are distinguished from independent verification; no prospective deal is presented as a completed partnership. Updated November 2026.
+
+## Commercial inquiries | 商务合作咨询
+
+For athlete endorsements, sports sponsorship, China market entry or international brand partnerships, email [john@jcmint.com](mailto:john@jcmint.com). Include your company, role, objectives, target market and anticipated timing. For general non-confidential questions, use [GitHub Issues](https://github.com/justcuasemint/JCMINT-Sports/issues). Please do not post budgets, personal contact details or confidential proposals publicly. Initial inquiries may be handled by JCMINT's AI-assisted business development workflow before direct discussion with the commercial lead.
+
+商务合作请邮件联系 john@jcmint.com，注明公司、职位、合作目标、目标市场及预计时间。公开问题可通过GitHub Issues提出，请勿公开发布预算、个人联系方式或保密商业资料。
