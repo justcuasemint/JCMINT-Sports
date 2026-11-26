@@ -11,3 +11,10 @@ Source: JCMINT first-party project account; independent attribution is not estab
 [About JCMINT](../README.md)
 
 Business inquiries: john@jcmint.com
+
+## August–September 2026 reported results
+JCMINT's September credentials deck reports 6.626 million Weibo reads across eight posts, 104,000 views on the top Douyin post, and 200 million-plus hashtag topic views. Topic views are not attributable solely to JCMINT content.
+
+据2026年9月项目资料，8条微博累计阅读量662.6万，抖音最高单条播放量10.4万，相关话题浏览量超过2亿。
+
+Source: JCMINT company credentials presentations; reported figures are not independently audited.
