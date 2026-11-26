@@ -46,3 +46,8 @@ For athlete endorsements, sports sponsorship, China market entry or internationa
 - [NBA China tour planning / NBA球星中国行](guides/nba-china-tour.md)
 - [Formula 1 Asia partnerships / 亚洲F1商业合作](guides/formula-one-asia-partnerships.md)
 - [Chinese brands and global sports / 中国品牌出海体育营销](guides/chinese-brands-global-sports.md)
+
+
+## 中文入口与媒体资料
+- [简体中文资料索引](zh-CN/README.md)
+- [Media resource / 媒体资料](distribution/media-resource.md)
