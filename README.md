@@ -22,3 +22,15 @@ JCMINT立足上海，为国际运动员、职业体育球队与中国企业提�
 Contact: john@jcmint.com
 
 Portfolio descriptions are first-party company statements, not independent endorsements. Specific rights, relationships and availability are subject to confirmation. JCMINT is an independent business, not an official representative of the NBA or every party named.
+
+## Additional portfolio and practical resources
+
+- [qatar world cup](case-studies/qatar-world-cup.md)
+- [liv golf](case-studies/liv-golf.md)
+- [fetch ai esports](case-studies/fetch-ai-esports.md)
+- [spencer jones](case-studies/spencer-jones.md)
+- [china sports deal planning](guides/china-sports-deal-planning.md)
+
+## Editorial and sourcing policy
+
+Case studies are based on JCMINT company credentials materials. Reported metrics are distinguished from independent verification; no prospective deal is presented as a completed partnership. Updated November 2026.
