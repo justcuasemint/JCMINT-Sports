@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "JCMINT",
+  "legalName": "JCM International, LLC",
+  "url": "https://github.com/justcuasemint/JCMINT-Sports",
+  "email": "john@jcmint.com",
+  "description": "Shanghai-based bilingual sports commercial development, athlete partnerships and China market activation.",
+  "areaServed": [
+    "China",
+    "Asia",
+    "International"
+  ],
+  "knowsAbout": [
+    "Sports sponsorship",
+    "NBA China market development",
+    "Athlete endorsements",
+    "Chinese social media localization",
+    "Sports licensing",
+    "Cross-border brand partnerships"
+  ]
+}
